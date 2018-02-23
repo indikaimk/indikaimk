@@ -1,0 +1,2 @@
+# indikaimk
+my blog
